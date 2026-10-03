@@ -1,12 +1,26 @@
-# MANUAL DE USO DO PREA
+![PREA](PREA.png)
 
-### Organização, comunicação e colaboração no desenvolvimento do projeto
+# PREÁ — Plataforma de Recursos Educacionais Abertos
+
+**Conhecimento para compartilhar, adaptar e aprender em comunidade.**
+
+
 
 ## 1. Apresentação
 
-O **PREA** é um projeto de desenvolvimento de uma plataforma para organização, descoberta, compartilhamento e reutilização de recursos educacionais, com atenção especial aos Recursos Educacionais Abertos (REA).
+O PREÁ é um projeto de pesquisa e desenvolvimento de uma plataforma aberta para **organizar, documentar, encontrar e reutilizar Recursos Educacionais Abertos (REA)**, relacionando esses materiais às competências educacionais que podem apoiar.
 
-O projeto será desenvolvido de forma colaborativa, envolvendo a equipe do TCC e estudantes de Análise e Desenvolvimento de Sistemas (ADS) vinculados a atividades de pesquisa e Atividade Curricular Complementar (ACC).
+A proposta reúne Educação Aberta, desenvolvimento de software e formação científica e tecnológica. Seu desenvolvimento é incremental e colaborativo, com participação de estudantes do Ensino Médio Integrado em Informática, de Análise e Desenvolvimento de Sistemas (ADS) e, conforme a composição da equipe, da Licenciatura em Computação.
+
+## Por que PREÁ?
+
+O nome combina a sigla de **Plataforma de Recursos Educacionais Abertos** com uma referência ao **preá**, animal presente no Brasil. Essa escolha aproxima a identidade do projeto de uma linguagem familiar e expressa três valores que orientam a proposta:
+
+- **Agilidade e adaptação:** a imagem do preá inspira uma plataforma que busca ser rápida, flexível e adaptável às necessidades de professores e estudantes. Esses valores orientam o projeto e deverão ser avaliados durante o desenvolvimento.
+
+- **Espírito comunitário:** o nome representa a intenção de construir uma comunidade de colaboração, compartilhamento de conhecimento e valorização das contribuições de cada participante.
+
+- **Identidade brasileira e proximidade:** um nome curto, popular e ligado ao contexto brasileiro torna a proposta mais próxima das pessoas. A acessibilidade das interfaces e dos materiais também deverá ser tratada como uma preocupação do desenvolvimento.
 
 Como o desenvolvimento ocorrerá ao longo de diferentes etapas e contará com contribuições de diferentes participantes, é fundamental que as informações do projeto sejam registradas de forma organizada e possam ser recuperadas posteriormente.
 
